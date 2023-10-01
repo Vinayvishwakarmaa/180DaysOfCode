@@ -54,14 +54,47 @@ int main()
       //   }
       //   cout << num;
 
-      //  Sum of natural number
+      /*  Sum of natural number */
 
-       int n,i,sum=0;
-       cout << "Enter the number: ";
-       cin >> n;
+      //  int n,i,sum=0;
+      //  cout << "Enter the number: ";
+      //  cin >> n;
 
       //  for (i = 1; i <= n;i=i+1){
       //        sum = sum + i;
       //  }
-       cout << n*(n+1)/2;
+      //  cout << n*(n+1)/2;
+
+//     Factorial
+
+//  int n,fact=1,i;
+//  cout<<"Enter the number: ";
+//  cin >> n;
+
+//  for (int i = 1; i <= n;i=i+1){
+//        fact = fact * i;
+//  }
+//    cout<<fact;
+
+//   Prime Number =>
+
+      //  int n,i;
+      //  cout << "Enter the number: ";
+      //  cin >> n;
+
+      //  if(n<2){
+      //        cout << "Not a prime number";
+      //        return 0;
+      //  }else{
+      //        for (i = 2; i <n;i=i+1){
+      //           if(n%i == 0){
+      //                 cout << "Not Prime Number";
+      //                 return 0;
+      //           }
+      //        }
+      //        cout << "It is a Prime Numbers";
+      //        return 0;
+      //  }
+      //               return 0;
+
 }

@@ -1,7 +1,0 @@
-{
-      "workbench.colorCustomizations": {},
-      "files.associations": {
-            "*.jsx": "typescriptreact",
-            "iostream": "cpp"
-      }
-}

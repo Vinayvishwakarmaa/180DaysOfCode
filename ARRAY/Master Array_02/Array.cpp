@@ -7,23 +7,15 @@ int main()
 {
       //Reverse Array
 
-//       int arr[6] = {1, 2, 3, 4, 5};
+      int arr[6] = {1, 2, 3, 4, 5};
 
-//       int start = 0, end = 4;
-// //       Start = i end =j
-//       while(start<end){
-//             swap(arr[start],arr[end]);
-//             start++;
-//             end--;
-//       }
-//       for (int i = 0; i < 5;i++)
-//             cout << arr[i]<<" ";
-
-
-
-         
-
-
-
-
+      int start = 0, end = 4;
+//       Start = i end =j
+      while(start<end){
+            swap(arr[start],arr[end]);
+            start++;
+            end--;
+      }
+      for (int i = 0; i < 5;i++)
+            cout << arr[i]<<" ";
 }

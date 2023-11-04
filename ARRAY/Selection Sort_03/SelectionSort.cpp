@@ -51,5 +51,5 @@ int main()
 
       // Auxilarry Space = o(1)
       // Total Space  = o(n)
-      // Time Compelexity = o(nSqure2)
+      // Time Compelexity = o(N2)
 }

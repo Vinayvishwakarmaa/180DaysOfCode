@@ -8,7 +8,7 @@ int main(){
 
       // int row, col;
       // int n;
-      // cout << "Input the number: ";
+      // cout << "Input the number: "
       // cin >> n;
 
       // for (row = 1; row<=n;row=row+1){

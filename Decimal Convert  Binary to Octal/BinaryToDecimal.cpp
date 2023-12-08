@@ -8,7 +8,6 @@ int main()
       int num;
       cout<<"Enter the number: ";
       cin>>num;
-
       int mul = 1, ans = 0, rem;
 
       while (num>0)

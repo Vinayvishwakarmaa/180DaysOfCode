@@ -8,7 +8,7 @@ using namespace std;
        while (n)
        {
              count++;
-             n /= 10;
+             n /= 100;
        }
        return count;
  };
